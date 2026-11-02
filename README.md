@@ -134,8 +134,8 @@ Add your own screenshots to the `screenshots/` folder and link them here:
 
 ## Author
 
-- **Name:** [Your Full Name]
-- **GitHub:** [@your-github-username](https://github.com/your-github-username)
+- **Name:** KHAYATI GUPTA
+- **GitHub:** [@khayatigupta119](https://github.com/khayatigupta119)
 
 ## License
 
